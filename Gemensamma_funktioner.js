@@ -8,7 +8,6 @@
  * Kalla på denna funktionen för att köra allt efter varandra
  */
 function Allt() {
- 
   Anvandare();
   Grupper(); 
 }

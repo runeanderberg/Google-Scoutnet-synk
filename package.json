@@ -1,0 +1,26 @@
+{
+  "name": "google-scoutnet-synk",
+  "version": "1.0.0",
+  "description": "Du kan med dessa program synkronisera användarkonton med personer i Scoutnet som\r har en funktionärsroll samt synkronisera google-grupper med e-postlistor i Scoutnet.\r Du kan använda dessa som e-postlistor eller som att lägga till att en specifik\r google-grupp ger behörighet till en specifik Team drive. Alltså automatisk synkronisering att\r t.ex Spårarledare ges behörighet till en Teamdrive för Spårare.\r Denna lösning använder Google Apps Script.",
+  "main": "index.js",
+  "dependencies": {
+    "@google/clasp": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runeanderberg/Google-Scoutnet-synk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runeanderberg/Google-Scoutnet-synk/issues"
+  },
+  "homepage": "https://github.com/runeanderberg/Google-Scoutnet-synk#readme"
+}
