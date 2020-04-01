@@ -1,6 +1,6 @@
 const {config} = require('../config.js');
 
-exports.service = class Service {
+exports.scoutnet = class Scoutnet {
   /**
    * Returns a promise contaning all members.
    * @return {Promise<Object>}
